@@ -1,7 +1,3 @@
-Here's a structured README for your website:
-
----
-
 # THE MIT SOL
 
 Welcome to **THE MIT SOL**'s official website repository.
@@ -68,7 +64,3 @@ For questions or feedback, reach out to us:
 - **Phone**: +92-313-4536206
 - **Address**: Engineer's Town, Sector A, Lahore, Pakistan
 - **Website**: [https://themitsol.com/](https://themitsol.com/)
-
----
-
-This README provides a complete overview of THE MIT SOL website, covering the project’s purpose, features, and usage instructions. It also includes contact information for inquiries and feedback. Let me know if you'd like any adjustments!
