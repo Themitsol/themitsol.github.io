@@ -37,9 +37,6 @@ Since this is a live website, setup instructions are not necessary. You can dire
 - **Interacting with the Team**: Use the contact options to connect with MITSOL's team for real-time support or consultations.
 
 ## Screenshots
-
-> **Add screenshots of your website here to showcase its design and functionality.** You can include images of the main sections: Services, Portfolio, Contact, and Blog.
-
 <img width="960" alt="1" src="https://github.com/user-attachments/assets/c721002a-4844-4c1d-8d60-9cdd60830a04">
 <img width="960" alt="2" src="https://github.com/user-attachments/assets/ac62e336-d7cc-49ca-88a7-c3e9ed7e1b20">
 <img width="960" alt="3" src="https://github.com/user-attachments/assets/31fb64ee-1833-42be-ac80-026e33bf3667">
